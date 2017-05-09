@@ -10,6 +10,8 @@ This is a money manager app that can achieve:
 5) Show the details of each income/expense
 6) Draw a pie chart of different categories of expense
 
+Language Support:(default) English, Chinese  (according to the language setting in your phone) 
+
 Feel free to download the apk file directly and start using it now. And you can check the source code in the source code file.
 
 We will continue working on this app for more functions.
