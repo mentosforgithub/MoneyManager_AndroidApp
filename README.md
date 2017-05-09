@@ -12,4 +12,4 @@ This is a money manager app that can achieve:
 
 Feel free to download the apk file directly and start using it now. And you can check the source code in the source code file.
 
-I will continue working on this app for more functions.
+We will continue working on this app for more functions.
